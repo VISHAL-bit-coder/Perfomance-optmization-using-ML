@@ -1,0 +1,16 @@
+Technology,Usage,Purpose
+Python,Core programming language for entire system,Main development language
+TensorFlow/Keras,"Deep learning models (LSTM, Autoencoder)",Neural network implementations
+scikit-learn,"Traditional ML algorithms (Isolation Forest, preprocessing)",Machine learning pipeline
+Flask,REST API and web services,API endpoints and web interface
+psutil,System monitoring and metrics collection,Real-time system monitoring
+MLflow,Experiment tracking and model management,ML lifecycle management
+Docker,Containerization and deployment,Production deployment
+SQLite,Local database for metrics storage,Data persistence
+pandas,Data manipulation and analysis,Data processing
+numpy,Numerical computations and array operations,Mathematical operations
+Grafana,Monitoring dashboards and visualization,Visual monitoring
+Prometheus,Metrics collection and alerting,System metrics
+Redis,Caching and task queue management,Performance optimization
+Jupyter,Interactive development and analysis,Development environment
+pytest,Testing framework and quality assurance,Code quality assurance
